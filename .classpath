@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src/boj/1260.DFS와BFS"/>
+	<classpathentry kind="src" path="src/boj/1697.숨바꼭질"/>
+	<classpathentry kind="src" path="src/boj/1753.최단경로"/>
+	<classpathentry kind="src" path="src/boj/1916.최소비용구하기"/>
+	<classpathentry kind="src" path="src/boj/2178.미로탐색"/>
+	<classpathentry kind="src" path="src/boj/2580.스도쿠"/>
+	<classpathentry kind="src" path="src/boj/2606.바이러스"/>
+	<classpathentry kind="src" path="src/boj/4963.섬의개수"/>
+	<classpathentry kind="src" path="src/boj/7562.나이트의이동"/>
+	<classpathentry kind="src" path="src/boj/7576.토마토"/>
+	<classpathentry kind="src" path="src/boj/9663.N-Queen"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
