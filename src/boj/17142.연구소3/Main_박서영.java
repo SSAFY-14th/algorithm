@@ -27,7 +27,7 @@ public class Main_박서영 {
 		
 		map = new int[N][N];
 		virus = new ArrayList<>();
-		//지도 배열 입력받으면서 바이러스 좌표 리스트에 저장
+		//지도 배열 입력받으면서 바이러스 좌표 리스트에 저장 
 		for (int i = 0; i < N; i++) {
 			st = new StringTokenizer(br.readLine());
 			for (int j = 0; j < N; j++) {

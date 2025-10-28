@@ -21,7 +21,7 @@ public class Main_박서영 {
 		System.out.println(maxBlock);
 	}
 	
-	//재귀함수 
+	//재귀함수  
 	static void dfs(int[][] nowMap, int cnt){
 		if(cnt == 5) { //5번 움직였으면 2차원 배열 돌면서 최댓값 찾아서 저장 
 			for (int i = 0; i < N; i++) {
