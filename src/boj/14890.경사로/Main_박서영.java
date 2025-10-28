@@ -36,7 +36,7 @@ public class Main_박서영 {
 		System.out.println(roadCnt);
 	}
 	
-	//가로줄 확인하는 함수
+	//가로줄 확인하는 함수 
 	static void checkRow(int x, int y) {
 		int length = 1; //같은 높이의 연속된 칸의 길이
 		boolean isPossible = true; //길을 지나갈 수 있는지 여부
